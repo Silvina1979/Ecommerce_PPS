@@ -6,7 +6,7 @@ on:
       - main 
 
 env:
-  PROJECT_ID: 'e-commerce-pps-mvp'
+  PROJECT_ID: 'e-commerce-pps-mvp
  # ¡IMPORTANTE! Reemplaza con tu ID real de GCP
   SERVICE_NAME: ecommerce-pps-backend
   REGION: us-central1 
